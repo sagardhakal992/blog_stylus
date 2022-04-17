@@ -5,3 +5,4 @@
 4.blog create form :/blogs/store</br>
 5.blog listed /blogs/all</br>
 6.inertia js with vue js </br>
+7.remaining Request for valifation and SoftDeletes 
